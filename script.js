@@ -4,5 +4,4 @@
 // arr.push()=true;
 // arr.push()= "game";
 // arr.push()='0ver';
-document.getElementByName('li');
-li.length();
+let yourArray = ['apple', 42, true, null, 'hello world'];
