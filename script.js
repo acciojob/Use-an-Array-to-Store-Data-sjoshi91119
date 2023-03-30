@@ -5,3 +5,4 @@
 // arr.push()= "game";
 // arr.push()='0ver';
 let yourArray = ['apple', 42, true, null, 'hello world'];
+console.log(yourArray);
